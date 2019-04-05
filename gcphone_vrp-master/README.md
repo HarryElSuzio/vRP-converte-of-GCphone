@@ -1,8 +1,6 @@
 # gcphone_VRP
 GCphone Converted to VRP 1.0
 
-All credits to OP @N3MTV and Gannon
-
 original git
 https://github.com/N3MTV/gcphone
 
