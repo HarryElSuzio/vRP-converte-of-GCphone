@@ -1,10 +1,6 @@
 # gcphone_VRP
 GCphone Converted to VRP 1.0
 
-original git
-https://github.com/N3MTV/gcphone
-
-
 working call/messages/services
 
 |server.cfg|
